@@ -153,11 +153,11 @@ SELECT * FROM customers;
 ```
 
 ## Tasks
-- [ ] Get all customers and their addresses.
-- [ ] Get all orders and their line items.
-- [ ] Which warehouses have cheetos?
-- [ ] Which warehouses have diet pepsi?
-- [ ] Get the number of orders for each customer. NOTE: It is OK if those without orders are not included in results.
-- [ ] How many customers do we have?
-- [ ] How many products do we carry?
-- [ ] What is the total available on-hand quantity of diet pepsi?
+- [x] Get all customers and their addresses.
+- [x] Get all orders and their line items.
+- [x] Which warehouses have cheetos?
+- [x] Which warehouses have diet pepsi?
+- [x] Get the number of orders for each customer. NOTE: It is OK if those without orders are not included in results.
+- [x] How many customers do we have?
+- [x] How many products do we carry?
+- [x] What is the total available on-hand quantity of diet pepsi?
