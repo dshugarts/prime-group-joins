@@ -4,7 +4,7 @@ FROM addresses
 JOIN customers on customers.id = addresses.customer_id;
 
 --2
-SELECT orders.order_date, line_items.unit_price, line_items.quantity, orders.total
+SELECT orders.id, orders.order_date, line_items.unit_price, line_items.quantity, orders.total
 FROM line_items
 JOIN orders on orders.id = line_items.order_id;
 
