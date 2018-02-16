@@ -33,7 +33,7 @@ GROUP BY customers.id;
 SELECT COUNT(id)
 FROM customers;
 
---7.How many products do we carry?
+-- 7.How many products do we carry?
 SELECT COUNT(id)
 FROM products;
 
